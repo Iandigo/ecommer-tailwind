@@ -1,0 +1,76 @@
+{
+  "data": [
+    {
+      "id": 2,
+      "name": "White Sweater TShirt",
+      "shortDescription": "Donec sollicitudin molestie malesuada. Vivamus suscipit.",
+      "longDescription": "Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus.\n",
+      "price": 15,
+      "category": "TOP RATED",
+      "url": "assets/images/andreea-chidu-FPV2_FbNHoE-unsplash.jpeg"
+    },
+    {
+      "id": 3,
+      "name": "Evening Text Shirt",
+      "shortDescription": "Donec sollicitudin molestie malesuada. Sed porttitor lectus nibh.",
+      "longDescription": "Donec sollicitudin molestie malesuada. Sed porttitor lectus nibh. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Nulla porttitor accumsan tincidunt.\n\nVivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Cras ultricies ligula sed magna dictum porta. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+      "price": 20,
+      "category": "NEW ARRIVALS",
+      "url": "assets/images/brian-lawson-jRztw-pVdyk-unsplash.jpeg"
+    },
+    {
+      "id": 4,
+      "name": "White Dress Light",
+      "shortDescription": "Cras ultricies ligula sed magna dictum porta. Curabitur aliquet quam.",
+      "longDescription": "Cras ultricies ligula sed magna dictum porta. Curabitur aliquet quam id dui posuere blandit. Nulla quis lorem ut libero malesuada feugiat. Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.\n\nMauris blandit aliquet elit, eget tincidunt nibh pulvinar a. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui. Vivamus magna justo, lacinia eget consectetur sed, convallis at tellus. Vivamus suscipit tortor eget felis porttitor volutpat. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+      "price": 60,
+      "category": "NEW ARRIVALS",
+      "url": "assets/images/raoul-croes-q3NX2NbbYmI-unsplash.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Floral Shirt",
+      "shortDescription": "Sed porttitor lectus nibh. Sed porttitor lectus.",
+      "longDescription": "Sed porttitor lectus nibh. Sed porttitor lectus nibh. Proin eget tortor risus. Cras ultricies ligula sed magna dictum porta. Nulla quis lorem ut libero malesuada feugiat. Curabitur aliquet quam id dui posuere blandit.\n\nProin eget tortor risus. Curabitur aliquet quam id dui posuere blandit. Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Vestibulum ac diam sit amet quam vehicula elementum sed sit amet dui.",
+      "price": 70,
+      "category": "TOP RATED",
+      "url": "assets/images/diego-vedita-PW1EOs9R-Xw-unsplash.jpeg"
+    },
+    {
+      "id": 6,
+      "name": "Black Graphic T Shirt",
+      "shortDescription": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla quis lorem ut libero malesuada feugiat. Donec sollicitudin molestie malesuada. Proin eget tortor risus.",
+      "longDescription": "Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Nulla quis lorem ut libero malesuada feugiat. Donec sollicitudin molestie malesuada. Proin eget tortor risus.\n\nDonec rutrum congue leo eget malesuada. Proin eget tortor risus. Donec rutrum congue leo eget malesuada. Nulla porttitor accumsan tincidunt.",
+      "price": 30,
+      "category": "BEST SELLERS",
+      "url": "assets/images/faith-yarn-jX2cntCbrAo-unsplash.jpeg"
+    },
+    {
+      "id": 7,
+      "name": "Black and White Striped Pants",
+      "shortDescription": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. ",
+      "longDescription": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada.\n\nProin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit.",
+      "price": 50,
+      "category": "NEW ARRIVALS",
+      "url": "assets/images/alex-hddife-6wWiZlA2n0Q-unsplash.jpeg"
+    },
+    {
+      "id": 8,
+      "name": "Road T Shirt White",
+      "shortDescription": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. ",
+      "longDescription": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada.\n\nProin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit.",
+      "price": 70,
+      "category": "NEW ARRIVALS",
+      "url": "assets/images/christian-bolt-VW5VjskNXZ8-unsplash.jpeg"
+    },
+    {
+      "id": 9,
+      "name": "Text Black T Shirt Short Sleeve",
+      "shortDescription": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. ",
+      "longDescription": "Curabitur non nulla sit amet nisl tempus convallis quis ac lectus. Donec sollicitudin molestie malesuada. Nulla quis lorem ut libero malesuada feugiat. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi. Donec sollicitudin molestie malesuada.\n\nProin eget tortor risus. Nulla quis lorem ut libero malesuada feugiat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec velit neque, auctor sit amet aliquam vel, ullamcorper sit amet ligula. Vivamus suscipit tortor eget felis porttitor volutpat. Curabitur aliquet quam id dui posuere blandit.",
+      "price": 50,
+      "category": "NEW ARRIVALS",
+      "url": "assets/images/uji-kanggo-gumilang-sMn0sxR8v2E-unsplash.jpeg"
+    }
+  ]
+}
